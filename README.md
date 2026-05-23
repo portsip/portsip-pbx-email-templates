@@ -4,10 +4,10 @@ This repository contains the default HTML templates for PortSIP PBX email notifi
 
 ## Version Compatibility
 
-- The templates in the `email` folder are intended for PortSIP PBX v22.5.2 and earlier versions only.
 - For PortSIP PBX v22.6 and later versions, please use the following templates:
   - For system-level email notification templates, see the `system_email_templates` folder.
   - For tenant-level email notification templates, see the `tenant_email_templates` folder.
+- The templates in the `email` folder are intended for PortSIP PBX v22.5.2 and earlier versions only.
 
 ## How to Use
 
